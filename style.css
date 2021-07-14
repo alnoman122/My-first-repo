@@ -1,0 +1,45 @@
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+h1{
+    font-size: 50px;
+    
+}
+.orange-color{
+    color: rgb(92, 241, 184);
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.color{
+    color: lightseagreen;
+}
+.ex-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 10px solid;
+    box-shadow: 10px 10px 50px  rgb(247, 248, 247);
+    
+}
