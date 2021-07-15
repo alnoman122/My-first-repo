@@ -1,0 +1,30 @@
+.new-1{
+ 
+    padding-right: 10px;
+    text-shadow: 2px 2px 5px red;
+    text-align: center;
+}
+.new-2{
+    background-color: rgb(37, 218, 218);
+    text-align: center;
+    color: rgb(8, 8, 8);
+}
+h3{
+    background-color: cyan;
+    height: fit-content;
+    text-align: center;
+    color: rgb(8, 8, 8);
+}
+.center{
+
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+
